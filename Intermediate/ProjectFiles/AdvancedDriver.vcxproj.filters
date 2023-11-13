@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AdvancedDriver.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{ABB4B857-2E39-45CE-BE71-7F3B084FD116}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AdvancedDriver.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AdvancedDriverEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A543CD76-F041-45CA-9A2F-776F236AC0CF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AdvancedDriver">
+      <UniqueIdentifier>{35D51E44-F440-4CC8-8D96-3DC92106E56B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AdvancedDriver\AdvancedDriver.Build.cs">
+      <Filter>Source\AdvancedDriver</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AdvancedDriver\AdvancedDriver.cpp">
+      <Filter>Source\AdvancedDriver</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdvancedDriver\AdvancedDriver.h">
+      <Filter>Source\AdvancedDriver</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdvancedDriver\AdvancedDriverGameMode.cpp">
+      <Filter>Source\AdvancedDriver</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdvancedDriver\AdvancedDriverGameMode.h">
+      <Filter>Source\AdvancedDriver</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdvancedDriver\AdvancedDriverHud.cpp">
+      <Filter>Source\AdvancedDriver</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdvancedDriver\AdvancedDriverHud.h">
+      <Filter>Source\AdvancedDriver</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdvancedDriver\AdvancedDriverPawn.cpp">
+      <Filter>Source\AdvancedDriver</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdvancedDriver\AdvancedDriverPawn.h">
+      <Filter>Source\AdvancedDriver</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdvancedDriver\AdvancedDriverWheelFront.cpp">
+      <Filter>Source\AdvancedDriver</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdvancedDriver\AdvancedDriverWheelFront.h">
+      <Filter>Source\AdvancedDriver</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdvancedDriver\AdvancedDriverWheelRear.cpp">
+      <Filter>Source\AdvancedDriver</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdvancedDriver\AdvancedDriverWheelRear.h">
+      <Filter>Source\AdvancedDriver</Filter>
+    </ClInclude>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>

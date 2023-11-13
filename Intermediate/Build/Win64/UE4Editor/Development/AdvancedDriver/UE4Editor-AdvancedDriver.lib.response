@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AdvancedDriver.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Projects\AdvancedDriver\Intermediate\Build\Win64\AdvancedDriverEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Unreal Projects\AdvancedDriver\Intermediate\Build\Win64\UE4Editor\Development\AdvancedDriver\AdvancedDriver.cpp.obj"
+"E:\Unreal Projects\AdvancedDriver\Intermediate\Build\Win64\UE4Editor\Development\AdvancedDriver\AdvancedDriverGameMode.cpp.obj"
+"E:\Unreal Projects\AdvancedDriver\Intermediate\Build\Win64\UE4Editor\Development\AdvancedDriver\AdvancedDriverHud.cpp.obj"
+"E:\Unreal Projects\AdvancedDriver\Intermediate\Build\Win64\UE4Editor\Development\AdvancedDriver\AdvancedDriverPawn.cpp.obj"
+"E:\Unreal Projects\AdvancedDriver\Intermediate\Build\Win64\UE4Editor\Development\AdvancedDriver\AdvancedDriverWheelFront.cpp.obj"
+"E:\Unreal Projects\AdvancedDriver\Intermediate\Build\Win64\UE4Editor\Development\AdvancedDriver\AdvancedDriverWheelRear.cpp.obj"
+"E:\Unreal Projects\AdvancedDriver\Intermediate\Build\Win64\UE4Editor\Development\AdvancedDriver\AdvancedDriver.init.gen.cpp.obj"
+"E:\Unreal Projects\AdvancedDriver\Intermediate\Build\Win64\UE4Editor\Development\AdvancedDriver\AdvancedDriverGameMode.gen.cpp.obj"
+"E:\Unreal Projects\AdvancedDriver\Intermediate\Build\Win64\UE4Editor\Development\AdvancedDriver\AdvancedDriverHud.gen.cpp.obj"
+"E:\Unreal Projects\AdvancedDriver\Intermediate\Build\Win64\UE4Editor\Development\AdvancedDriver\AdvancedDriverPawn.gen.cpp.obj"
+"E:\Unreal Projects\AdvancedDriver\Intermediate\Build\Win64\UE4Editor\Development\AdvancedDriver\AdvancedDriverWheelFront.gen.cpp.obj"
+"E:\Unreal Projects\AdvancedDriver\Intermediate\Build\Win64\UE4Editor\Development\AdvancedDriver\AdvancedDriverWheelRear.gen.cpp.obj"
+"E:\Unreal Projects\AdvancedDriver\Intermediate\Build\Win64\UE4Editor\Development\AdvancedDriver\Default.rc2.res"
+/OUT:"E:\Unreal Projects\AdvancedDriver\Intermediate\Build\Win64\UE4Editor\Development\AdvancedDriver\UE4Editor-AdvancedDriver.lib"
+/INCLUDE:IMPLEMENT_MODULE_AdvancedDriver

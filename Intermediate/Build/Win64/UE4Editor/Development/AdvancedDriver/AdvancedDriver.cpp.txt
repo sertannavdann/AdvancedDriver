@@ -1,0 +1,2 @@
+E:\Unreal Projects\AdvancedDriver\Intermediate\Build\Win64\UE4Editor\Development\AdvancedDriver\Definitions.AdvancedDriver.h
+E:\Unreal Projects\AdvancedDriver\Source\AdvancedDriver\AdvancedDriver.h

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AdvancedDriver",
+			"Path": "E:\\Unreal Projects\\AdvancedDriver\\Source\\AdvancedDriver.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AdvancedDriverEditor",
+			"Path": "E:\\Unreal Projects\\AdvancedDriver\\Source\\AdvancedDriverEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

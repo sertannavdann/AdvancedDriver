@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal Projects\\AdvancedDriver\\Source\\AdvancedDriver\\AdvancedDriver.Build.cs",
+		"E:\\Unreal Projects\\AdvancedDriver\\Source\\AdvancedDriver.Target.cs",
+		"E:\\Unreal Projects\\AdvancedDriver\\Source\\AdvancedDriverEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
